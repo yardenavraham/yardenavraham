@@ -3,6 +3,8 @@
 <!--
 **yardenavraham/yardenavraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Yarden Avraham and I'm a software developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][1].
+
 
 ## &#x1f4c8; GitHub Stats
 
