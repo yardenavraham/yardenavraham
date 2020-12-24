@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yarden Avraham</h1>
+<h1 align="center">Hi folks 👋, I'm Yarden Avraham</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
+
+- 🌱 I’m currently learning **React and Bootstrap**
+
+- 💬 Ask me about **React, Angular, CSS, HTML**
 
 - 📫 How to reach me **yarden8bi@gmail.com**
 
