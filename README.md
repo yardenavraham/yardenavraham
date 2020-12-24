@@ -1,6 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Yarden Avraham and I'm a software developer. 
 <h1 align="center">Hi 👋, I'm Yarden Avraham</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
