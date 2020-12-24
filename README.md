@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks 👋, I'm Yarden Avraham</h1>
+<h1 align="center">Hi folks 👋, I'm Yarden</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
 - 🌱 I’m currently learning **React and Bootstrap**
