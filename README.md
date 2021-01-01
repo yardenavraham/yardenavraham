@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks 👋, I'm Yarden</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
-- 🔭 I’m currently working on **Responsive Web Application** for Pomodoro timer.<br>Using React, Bootstrap4, JS, CSS, HTML. Feel free to [take a look](https://yardenavraham.github.io/Responsive-Pomodoro-Timer/)! :eyes:
+- 🔭 I’m currently working on **Responsive Web Application** for Pomodoro timer.<br><br>Using React, Bootstrap4, JS, CSS, HTML. Feel free to [take a look](https://yardenavraham.github.io/Responsive-Pomodoro-Timer/)! :eyes:
 
 - 🌱 I’m currently learning **React, Bootstrap4**.
 
